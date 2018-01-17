@@ -100,15 +100,14 @@ while True:
                 data["acid"] = AcidLine
                 continue
             elif "Toxicity" in line:
-                ToxicLine = re.sub("Toxicity\s+", "", AcidLine)
-                ToxicLine = re.sub("\n", "", AcidLine)
+                ToxicLine = re.sub("Toxicity\s+", "", line)
+                ToxicLine = re.sub("\n", "", ToxicLine)
                 data["toxic"] = ToxicLine
                 continue
             elif "Climate" in line:
                 ClimateLine = re.sub("Climate\s+", "", line)
                 ClimateLine = re.sub("\n", "", ClimateLine)
                 data["climate"] = ClimateLine
-
                 break
             elif "Light preferences" in line:
                 LightLine = re.sub("Light preferences\s+", "", line)
