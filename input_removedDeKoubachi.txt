@@ -3120,104 +3120,104 @@ Säure Präferenz liebt neutrale pH-Bedingungen
 Toxizität nicht giftig
 Klima Steppe
 Mandarin
-Citrus reticulata
-Watering guidelines  During summer the soil should be kept moist, while during winter it just should not dry up completely.
-Fertilizer suggestions  Use Citrus fertilizer (e.g. N7-P3-K6).
-Mist requirements  Mist every 4 days during summer
-Light preferences  Prefers full sun
-Temperature preference  Prefers hot summer (average over 22 Grad C) and cold winter (average under 15 Grad C) climates.
-pH range  5.6 - 6.5
-Acidity preference  loves acidic conditions
-Toxicity  not poisonous
-Climate  tropical rainforest
+Citrus Reticulata
+Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
+Dünger-Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
+Nebel Anforderungen Nebel alle 4 Tage im Sommer
+Licht Präferenzen bevorzugen volle Sonne
+Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
+pH-Bereich 5,6-6,5
+Säure Präferenz liebt sauren Bedingungen
+Toxizität nicht giftig
+Klima tropischer Regenwald
 Mandevilla
 Mandevilla
-Watering guidelines  During summer the soil should be kept moist, while during winter it just should not dry up completely.
-Fertilizer suggestions  Use Flower fertilizer (e.g. N8-P12-K6).
-Mist requirements  Mist daily at room temperatures above 22 Grad C, otherwise mist every 4 days
-Light preferences  Prefers bright light but not direct sun
-Temperature preference  Prefers warm summer (average around 20 Grad C) and cold winter (average under 15 Grad C) climates.
-pH range  5.5 - 6.5
-Acidity preference  loves acidic conditions
-Toxicity  poisonous
-Climate  tropical rainforest
+Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
+Dünger Vorschläge verwenden Sie Blumen Dünger (z.b. N8-P12-K6).
+Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
+Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
+Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
+pH-Bereich 5,5-6,5
+Säure Präferenz liebt sauren Bedingungen
+Toxizität giftig
+Klima tropischer Regenwald
 Mango
-Mangifera indica
-Watering guidelines  During summer the soil should be kept moist, while during winter it just should not dry up completely.
-Fertilizer suggestions  Use Citrus fertilizer (e.g. N7-P3-K6).
-Mist requirements  Mist every 5 days
-Light preferences  Prefers full sun
-Temperature preference  Prefers hot constant temperatures through the whole year (average over 22 Grad C).
-pH range  5.5 - 7.5
-Acidity preference  loves acidic conditions
-Toxicity  not poisonous
-Climate  tropical rainforest
+Mangifera Indica
+Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
+Dünger-Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
+Nebel Anforderungen Nebel alle 5 Tage
+Licht Präferenzen bevorzugen volle Sonne
+Temperatur Präferenz bevorzugt heiße konstante Temperaturen durch das ganze Jahr (Durchschnittüber 22 Grad C).
+pH-Bereich 5,5-7,5
+Säure Präferenz liebt sauren Bedingungen
+Toxizität nicht giftig
+Klima tropischer Regenwald
 Manuka
-Leptospermum scoparium
-Watering guidelines  During summer the soil should be kept very moist, while during winter it should be kept moist.
-Fertilizer suggestions  Use Flower fertilizer (e.g. N8-P12-K6).
-Mist requirements  No information available
-Light preferences  Prefers bright light but not direct sun
-Temperature preference  Prefers warm summer (average around 20 Grad C) and cold winter (average under 15 Grad C) climates.
-pH range  5.6 - 6.5
-Acidity preference  loves neutral pH conditions
-Toxicity  not poisonous
-Climate  humid temperate
+Leptospermum Myrte
+Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
+Dünger Vorschläge verwenden Sie Blumen Dünger (z.b. N8-P12-K6).
+Nebel Anforderungen keine Informationen verfügbar
+Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
+Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
+pH-Bereich 5,6-6,5
+Säure Präferenz liebt neutrale pH-Bedingungen
+Toxizität nicht giftig
+Klima Feuchtgemäßigt
 Maranta
 Maranta
-Watering guidelines  During summer the soil should be kept very moist, while during winter it should be kept moist.
-Fertilizer suggestions  Use Green plant fertilizer (e.g. N14-P6-K8).
-Mist requirements  Mist daily at room temperatures above 22 Grad C, otherwise mist every 4 days
-Light preferences  Prefers half-shady light conditions
-Temperature preference  Prefers warm constant temperatures through the whole year (average around 22 Grad C).
-pH range  5.5 - 6.5
-Acidity preference  loves acidic conditions
-Toxicity  not poisonous
-Climate  tropical rainforest
+Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
+Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
+Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
+Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
+pH-Bereich 5,5-6,5
+Säure Präferenz liebt sauren Bedingungen
+Toxizität nicht giftig
+Klima tropischer Regenwald
 Marguerite
-Chrysanthemum frutescens
-Watering guidelines  The soil should be kept countinously moist.
-Fertilizer suggestions  Use Flower fertilizer (e.g. N8-P12-K6).
-Mist requirements  Does not need misting
-Light preferences  Prefers full sun
-Temperature preference  Prefers tepid constant temperatures through the whole year (average under 20 Grad C).
-pH range  6.1 - 7.8
-Acidity preference  loves neutral pH conditions
-Toxicity  irritant
-Climate  humid continental
-Marjoram
-Origanum majorana
-Watering guidelines  Keep the soil constantly slightly moist but never let it dry up completely.
-Fertilizer suggestions  Does not need fertilizer.
-Mist requirements  Does not need misting
-Light preferences  Prefers full sun
-Temperature preference  Prefers warm constant temperatures through the whole year (average around 22 Grad C).
-pH range  6.1 - 7.8
-Acidity preference  loves neutral pH conditions
-Toxicity  not poisonous
-Climate  mediterranean
+Chrysantheme frutescens
+Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
+Dünger Vorschläge verwenden Sie Blumen Dünger (z.b. N8-P12-K6).
+Nebel Anforderungen müssen nicht beschlagen
+Licht Präferenzen bevorzugen volle Sonne
+Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
+pH-Bereich 6,1-7,8
+Säure Präferenz liebt neutrale pH-Bedingungen
+Toxizität reizend
+Klima feuchtes kontinentales
+Majoran
+Origanum Majorana
+Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
+Dünger-Vorschläge brauchen nicht Dünger.
+Nebel Anforderungen müssen nicht beschlagen
+Licht Präferenzen bevorzugen volle Sonne
+Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
+pH-Bereich 6,1-7,8
+Säure Präferenz liebt neutrale pH-Bedingungen
+Toxizität nicht giftig
+Klima Mittelmeer
 Marlberry
 Ardisia
-Watering guidelines  During summer the soil should be kept moist, while during winter it just should not dry up completely.
-Fertilizer suggestions  Use Flower fertilizer (e.g. N8-P12-K6).
-Mist requirements  Mist every 3 days during summer
-Light preferences  Prefers half-shady light conditions
-Temperature preference  Prefers tepid constant temperatures through the whole year (average under 20 Grad C).
-pH range  6.1 - 7.8
-Acidity preference  loves neutral pH conditions
-Toxicity  poisonous
-Climate  tropical rainforest
-Martens's Spikemoss
+Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
+Dünger Vorschläge verwenden Sie Blumen Dünger (z.b. N8-P12-K6).
+Nebel Anforderungen Nebel alle 3 Tage im Sommer
+Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
+Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
+pH-Bereich 6,1-7,8
+Säure Präferenz liebt neutrale pH-Bedingungen
+Toxizität giftig
+Klima tropischer Regenwald
+Martens es Spikemoss
 Selaginella martensii
-Watering guidelines  The soil should be kept countinously moist.
-Fertilizer suggestions  Use Green plant fertilizer (e.g. N14-P6-K8).
-Mist requirements  Mist every 2 days
-Light preferences  Prefers half-shady light conditions
-Temperature preference  Prefers warm constant temperatures through the whole year (average around 22 Grad C).
-pH range  5.6 - 7.5
-Acidity preference  is very sensitive to basic conditions
-Toxicity  not poisonous
-Climate  tropical rainforest
+Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
+Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Nebel Anforderungen Nebel alle 2 Tage
+Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
+Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
+pH-Bereich 5,6-7,5
+Säure Präferenz ist sehr empfindlich auf die Grundbedingungen
+Toxizität nicht giftig
+Klima tropischer Regenwald
 Martens es bunte Spikemoss
 Selaginella martensii ' Bunta '
 Bewässerungs Richtlinien der Boden sollte countinously sehr feucht gehalten werden
@@ -6191,7 +6191,7 @@ Klima tropischer Regenwald
 Kraut Palme
 Cordyline Australis
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -6213,7 +6213,7 @@ Klima feucht subtropisch
 Kohl Baum
 Cordyline Australis ' Doucetiana '
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -7382,7 +7382,7 @@ Klima tropischer Regenwald
 Ctenanthe
 Ctenanthe
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 2 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -7426,7 +7426,7 @@ Klima feucht subtropisch
 Curry Baum
 Murraya koenigii
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -7448,7 +7448,7 @@ Klima tropischer Regenwald
 CYCAS
 CYCAS
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
