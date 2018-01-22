@@ -21,6 +21,7 @@ def containsHeader(string):
         return True
     if "Light preferences" in string:
         return True
+    print(string +"\n")
     return False
 
 
@@ -47,12 +48,12 @@ json_result = open("output_json.json", "w+")
 datalist = []
 
 while True:
-    print("loop")
+    ##print("loop")
     data = {}
     try:
         name = next(file_removed)
     except StopIteration:
-        print("outer")
+        ##print("outer")
         break
 
     name = re.sub("\n", "", name)
@@ -64,9 +65,11 @@ while True:
     while True:
         try :
             line = next(file_removed)
-            print(line)
+            ##print(line)
         except StopIteration:
-            print("inner")
+            datalist.append(data)
+
+            ##print("inner")
             break
         if containsHeader(line) == True:
             if "Temperature preference" in line:
@@ -116,5 +119,5 @@ while True:
                 continue
 
     datalist.append(data)
-print(datalist)
+##print(datalist)
 json.dump(datalist,json_result)
