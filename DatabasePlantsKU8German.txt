@@ -4,7 +4,7 @@ Zamiifolia zamiifolia
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -51,7 +51,7 @@ Calathea zebrina
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -67,7 +67,7 @@ Haworthia Dämpfung
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -82,7 +82,7 @@ Dracaena goldieana
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -97,7 +97,7 @@ Cucurbita pepo
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -127,7 +127,7 @@ Oscularia Delta
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
 pH-Bereich 6,1-7,8
@@ -141,7 +141,7 @@ Dioscorea
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -247,7 +247,7 @@ Tradescantia zebrina
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -262,7 +262,7 @@ Tradescantia fluminensis
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -278,7 +278,7 @@ Tradescantia fulminensis ' Tricolor '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -303,7 +303,7 @@ Toxizität nicht giftig
 Klima Feuchtgemäßigt
 
 
-Uhren Ketten Anlage
+Uhren Ketten Pflanze
 Crassula Springspinne
 
 
@@ -341,7 +341,7 @@ Peperomia Argyreia
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -356,7 +356,7 @@ Peperomia Glabella
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -462,7 +462,7 @@ Thuja occidentalis ' Smaragd '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -477,7 +477,7 @@ Tradescantia sillamontana
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -524,7 +524,7 @@ Monstera deliciosa ' Borsigiana '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen keine Informationen verfügbar
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -540,7 +540,7 @@ Erica Carnea
 
 
 Bewässerungs Richtlinien der Boden sollte countinously sehr feucht gehalten werden
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen Nebel alle 6 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt kalte konstante Temperaturen durch das ganze Jahr (durchschnittlich unter 16 Grad C).
@@ -570,7 +570,7 @@ Wollemie
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -630,7 +630,7 @@ Dionaea Dionaea
 
 
 Bewässerungs Richtlinien der Boden sollte countinously sehr feucht gehalten werden
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen Nebel alle 1 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -646,7 +646,7 @@ Peperomia verticillata
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -741,7 +741,7 @@ Peperomia Schlange
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -756,7 +756,7 @@ Peperomia Schlange ' Bunta '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -786,7 +786,7 @@ Cyperus alternifolius
 
 
 Bewässerungs Richtlinien halten den bodenständig nass.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -795,13 +795,13 @@ Säure Präferenz liebt sauren Bedingungen
 Toxizität giftig
 Klima tropischer Regenwald
 
-Dachanlage
+DachPflanze
 Cyperus involucratus
 
 
 
 Bewässerungs Richtlinien halten den bodenständig nass.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -810,13 +810,13 @@ Säure Präferenz liebt sauren Bedingungen
 Toxizität nicht giftig
 Klima tropischer Regenwald
 
-Dachanlage
+DachPflanze
 Schefflera actinophylla ' Amate '
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -848,7 +848,7 @@ Citrus latifolia
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
+Dünger Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
 Nebel Anforderungen Nebel alle 3 Tage im Sommer
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -936,13 +936,13 @@ Toxizität nicht giftig
 Klima Mittelmeer
 
 
-TI-Anlage
+TI-Pflanze
 Cordyline fruticosa
 
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -1003,7 +1003,7 @@ Mimosa pudica
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 2 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1017,7 +1017,7 @@ Ficus sagittata
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1078,7 +1078,7 @@ Calathea crocata
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1109,7 +1109,7 @@ CYCAS revoluta
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -1125,7 +1125,7 @@ Cleyera Japonica
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
 pH-Bereich 5,6-6,5
@@ -1139,7 +1139,7 @@ Cleyera Japonica ' Tricolor '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
 pH-Bereich 5,6-6,5
@@ -1200,7 +1200,7 @@ Schefflera arboricola
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1230,7 +1230,7 @@ Geogenanthus
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heiße konstante Temperaturen durch das ganze Jahr (Durchschnittüber 22 Grad C).
@@ -1355,7 +1355,7 @@ Spargel afrogelbholz
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -1417,7 +1417,7 @@ Cyperus gracilis
 
 
 Bewässerungs Richtlinien halten den bodenständig nass.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -1432,7 +1432,7 @@ Cordyline
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -1507,7 +1507,7 @@ Juncus effusus
 
 
 Bewässerungs Richtlinien der Boden sollte countinously sehr feucht gehalten werden
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -1523,7 +1523,7 @@ Dracaena Reflexa
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -1611,13 +1611,13 @@ Säure Präferenz liebt neutrale pH-Bedingungen
 Toxizität giftig
 Klima tropischer Regenwald
 
-Spider-Anlage
+Spider-Pflanze
 Chlorophytum comosum
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1626,13 +1626,13 @@ Säure Präferenz liebt neutrale pH-Bedingungen
 Toxizität nicht giftig
 Klima feucht subtropisch
 
-Spider-Anlage (bunt)
+Spider-Pflanze (bunt)
 Chlorophytum comosum ' variegatum '
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1648,7 +1648,7 @@ Tradescantia
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -1664,7 +1664,7 @@ Selaginella
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 2 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1679,7 +1679,7 @@ Euonymus
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen keine Informationen verfügbar
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -1695,7 +1695,7 @@ Asplenium
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1711,7 +1711,7 @@ Dracaena surculosa
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1726,7 +1726,7 @@ Aucuba Japonica
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -1742,7 +1742,7 @@ Spargel densiflorus ' Sprengeri '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -1789,7 +1789,7 @@ Davallia Maries
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage im Sommer
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1820,7 +1820,7 @@ Farne bifurcatum
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 2 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1835,7 +1835,7 @@ Farne Grande
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1851,7 +1851,7 @@ Bulbine frutescens
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen keine Informationen verfügbar
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1928,7 +1928,7 @@ Senecio herreianus
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -1976,7 +1976,7 @@ Dracaena duftende ' Warneckii '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -1992,7 +1992,7 @@ Callisia elegans
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -2056,7 +2056,7 @@ Drosera rotundifolia
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2088,7 +2088,7 @@ Laurus
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -2152,7 +2152,7 @@ Ipomoea hybrida "Sidekick Black Heart"
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2167,7 +2167,7 @@ Ipomoea hybrida ' Sidekick Black '
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2183,7 +2183,7 @@ Monstera deliciosa
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2199,7 +2199,7 @@ Farne exaltata
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2208,13 +2208,13 @@ Säure Präferenz liebt sauren Bedingungen
 Toxizität nicht giftig
 Klima tropischer Regenwald
 
-Heizkörper Anlage
+Heizkörper Pflanze
 Peperomia
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2224,13 +2224,13 @@ Toxizität nicht giftig
 Klima tropischer Regenwald
 
 
-Heizkörper Anlage
+Heizkörper Pflanze
 Peperomia arifolia
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2259,7 +2259,7 @@ Blechnum Brasiliense
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -2321,7 +2321,7 @@ Davallia
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage im Sommer
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2351,7 +2351,7 @@ Begonie Rex
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2366,7 +2366,7 @@ Cissus Verfärbung
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2398,7 +2398,7 @@ Homalocladium platycladum
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 1 Tage im Sommer
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -2492,7 +2492,7 @@ Callisia
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -2524,7 +2524,7 @@ Fortunella Japonica ' Bunta '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
+Dünger Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -2566,13 +2566,13 @@ Toxizität giftig
 Klima feucht subtropisch
 
 
-Kautschuk Anlage
+Kautschuk Pflanze
 Ficus elastische ' Robusta '
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2603,7 +2603,7 @@ Brachychiton rupestris
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -2741,7 +2741,7 @@ Cyperus
 
 
 Bewässerungs Richtlinien halten den bodenständig nass.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -2757,7 +2757,7 @@ Cyperus papyrus
 
 
 Bewässerungs Richtlinien halten den bodenständig nass.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2850,7 +2850,7 @@ Calathea orbifolia
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -2866,7 +2866,7 @@ Calathea makoyana
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3098,7 +3098,7 @@ Ctenanthe lubbersiana
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 2 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3176,7 +3176,7 @@ Cissus rhombifolia
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 6 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3185,7 +3185,7 @@ Säure Präferenz ist nicht sehr pH-empfindlich
 Toxizität nicht giftig
 Klima tropischer Regenwald
 
-Pitcher-Anlage
+Pitcher-Pflanze
 Nepenthes
 
 
@@ -3200,13 +3200,13 @@ Säure Präferenz liebt sauren Bedingungen
 Toxizität nicht giftig
 Klima tropischer Regenwald
 
-Pitcher-Anlage
+Pitcher-Pflanze
 Sarracenia alata
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3237,7 +3237,7 @@ Spargel setaceus ' plumosus '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -3247,7 +3247,7 @@ Toxizität nicht giftig
 Klima tropischer Regenwald
 
 
-Taschenbuch-Anlage
+Taschenbuch-Pflanze
 Pantoffel Herbeohybrida GRP.
 
 
@@ -3267,7 +3267,7 @@ Euphorbia pulcherrima
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3282,7 +3282,7 @@ Phyllostachya
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -3298,7 +3298,7 @@ Die erhabenen
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -3314,7 +3314,7 @@ Polyscia
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3361,7 +3361,7 @@ Ficus rubiginosa ' bunte '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heiße konstante Temperaturen durch das ganze Jahr (Durchschnittüber 22 Grad C).
@@ -3377,7 +3377,7 @@ Prunus lusitanica
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3401,13 +3401,13 @@ Toxizität nicht giftig
 Klima Mittelmeer
 
 
-Gebets Anlage
+Gebets Pflanze
 Calathea
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3417,13 +3417,13 @@ Toxizität nicht giftig
 Klima tropischer Regenwald
 
 
-Gebets Anlage
+Gebets Pflanze
 Calathea lancifolia
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3433,13 +3433,13 @@ Toxizität nicht giftig
 Klima tropischer Regenwald
 
 
-Gebets Anlage
+Gebets Pflanze
 Calathea majestica
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3448,13 +3448,13 @@ Säure Präferenz liebt sauren Bedingungen
 Toxizität nicht giftig
 Klima tropischer Regenwald
 
-Gebets Anlage
+Gebets Pflanze
 Calathea Picturata
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3464,13 +3464,13 @@ Toxizität nicht giftig
 Klima tropischer Regenwald
 
 
-Gebets Anlage
+Gebets Pflanze
 Ctenanthe Amabilis
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 2 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3480,13 +3480,13 @@ Toxizität nicht giftig
 Klima tropischer Regenwald
 
 
-Gebets Anlage
+Gebets Pflanze
 Maranta leuconeura
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3496,13 +3496,13 @@ Toxizität nicht giftig
 Klima tropischer Regenwald
 
 
-Gebets Anlage
+Gebets Pflanze
 Maranta leuconeura ' Erythroneura '
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3511,13 +3511,13 @@ Säure Präferenz liebt sauren Bedingungen
 Toxizität nicht giftig
 Klima tropischer Regenwald
 
-Gebets Anlage
+Gebets Pflanze
 Maranta leuconeura ' Kerchoviana '
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3574,7 +3574,7 @@ Toxizität nicht giftig
 Klima Feuchtgemäßigt
 
 
-Propeller Anlage
+Propeller Pflanze
 Crassula falcata
 
 
@@ -3641,7 +3641,7 @@ Tradescantia Pallida
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -3810,7 +3810,7 @@ Allium Cepa
 
 
 Bewässerungs Richtlinien Bewässerung nur im Sommer.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -3938,7 +3938,7 @@ Fortunella Margarita
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
+Dünger Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -3968,7 +3968,7 @@ Ficus natalensis var. SSP. leprieurii
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3977,13 +3977,13 @@ Säure Präferenz liebt sauren Bedingungen
 Toxizität nicht giftig
 Klima tropischer Regenwald
 
-Nerven Anlage
+Nerven Pflanze
 Fittonien
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -3993,13 +3993,13 @@ Toxizität nicht giftig
 Klima tropischer Regenwald
 
 
-Nerven Anlage
+Nerven Pflanze
 Fittonien albivenis
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4015,7 +4015,7 @@ Ctenanthe oppenheimiana
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 2 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4077,7 +4077,7 @@ Alocasia Geruch
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4123,7 +4123,7 @@ Araucaria heterophylla
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -4139,7 +4139,7 @@ Dracaena marginata
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4261,7 +4261,7 @@ Magnolia virginiana
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -4276,7 +4276,7 @@ Didymochlaena truncatula
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -4292,7 +4292,7 @@ Miscanthus sinensis ' Zebrinus '
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -4308,7 +4308,7 @@ Pfauenrad
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -4324,7 +4324,7 @@ Pfauenrad capillus-ehrwürdiger
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -4339,7 +4339,7 @@ Muehlenbeckia complexa
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -4355,7 +4355,7 @@ Pachira aquatica
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen keine Informationen verfügbar
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4560,7 +4560,7 @@ Selaginella martensii ' Bunta '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously sehr feucht gehalten werden
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 2 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4576,7 +4576,7 @@ Asplenium daucifolium
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4608,7 +4608,7 @@ Selaginella Apoda
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 2 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4684,7 +4684,7 @@ Citrus x meyeri
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Dünger-Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
+Dünger Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4713,7 +4713,7 @@ Polyscias fruticosa
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt heiße konstante Temperaturen durch das ganze Jahr (Durchschnittüber 22 Grad C).
@@ -4728,7 +4728,7 @@ Cissus striata
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -4758,7 +4758,7 @@ Ficus deltoidea
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4773,7 +4773,7 @@ Zypresse macrocarpa ' Gold Crest '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -4836,7 +4836,7 @@ Castanospermum Australe
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4852,7 +4852,7 @@ Tradescantia spathacea
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -4867,7 +4867,7 @@ Tradescantia spathacea ' Bunta '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -4969,13 +4969,13 @@ Säure Präferenz liebt neutrale pH-Bedingungen
 Toxizität giftig
 Klima Steppe
 
-Mutter-in-Law-Anlage
+Mutter-in-Law-Pflanze
 Dieffenbachia seguine
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -4990,7 +4990,7 @@ Cordyline indivisa
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -5097,7 +5097,7 @@ Philodendron bipinnatifidum
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen keine Informationen verfügbar
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -5160,7 +5160,7 @@ Laurus
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -5222,7 +5222,7 @@ Leea guineensis ' Burgund '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -5238,7 +5238,7 @@ Citrus Limon
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
+Dünger Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
 Nebel Anforderungen Nebel alle 3 Tage im Sommer
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -5253,7 +5253,7 @@ Aloysia citridora
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -5269,7 +5269,7 @@ Melissa officinalis
 
 
 Bewässerungs Richtlinien Bewässerung nur im Sommer.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -5317,7 +5317,7 @@ Lilium
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -5332,7 +5332,7 @@ Liriope
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -5410,7 +5410,7 @@ Lithops
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -5425,7 +5425,7 @@ Lithops ruschiorum
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -5489,7 +5489,7 @@ Ficus binnendijkii
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -5521,7 +5521,7 @@ Dracaena sanderiana
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -5585,7 +5585,7 @@ Citrus hystrix
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
+Dünger Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -5615,7 +5615,7 @@ Cissus Antarktis
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -5661,7 +5661,7 @@ Actinidia deliciosa
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -5739,7 +5739,7 @@ Alocasia sanderiana
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -5754,7 +5754,7 @@ Alocasia sanderiana ' Polly '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -5770,7 +5770,7 @@ Fortunella
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
+Dünger Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -5801,7 +5801,7 @@ Acalypha wilkesiana ' Godseffiana '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -5817,7 +5817,7 @@ Crassula OVATA
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -5879,7 +5879,7 @@ Ilex crenata
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -5895,7 +5895,7 @@ Farne niponicum
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen schattige Bedingungen
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -5911,7 +5911,7 @@ Acer japonicum
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage im Sommer
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -5958,7 +5958,7 @@ Euonymus japonicus
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -5974,7 +5974,7 @@ Pinus parviflora
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -5990,7 +5990,7 @@ Taxus cuspidata
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -6005,7 +6005,7 @@ Acer palmatum var. blättriger
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage im Sommer
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -6146,7 +6146,7 @@ Camellia sinensis var. assamica
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage im Sommer
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -6162,7 +6162,7 @@ Begonie masoniana ' Eisernes Kreuz '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -6210,7 +6210,7 @@ Hedera
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -6225,7 +6225,7 @@ Hedera Helix
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -6241,7 +6241,7 @@ Hedera Helix ' Gletscher '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -6258,7 +6258,7 @@ Peperomia griseoargentea
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -6273,7 +6273,7 @@ Cistus Incanus
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -6288,7 +6288,7 @@ Heteropanax
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 5 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -6303,7 +6303,7 @@ Blechnum
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -6318,7 +6318,7 @@ Asplenium scolopendrium
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -6365,7 +6365,7 @@ Haworthia
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -6397,7 +6397,7 @@ Philodendron hederaceum
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 6 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -6413,7 +6413,7 @@ Erica
 
 
 Bewässerungs Richtlinien der Boden sollte countinously sehr feucht gehalten werden
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen Nebel alle 6 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt kalte konstante Temperaturen durch das ganze Jahr (durchschnittlich unter 16 Grad C).
@@ -6550,7 +6550,7 @@ Cyrtomium Hasenohr
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -6582,7 +6582,7 @@ Carpinus betulus
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -6693,7 +6693,7 @@ Eruca vesicaria SSP. Sativa
 
 
 Bewässerungs Richtlinien Bewässerung nur im Sommer.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -6883,7 +6883,7 @@ Yucca gigantea
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -6899,7 +6899,7 @@ Ginkgo biloba
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -7084,7 +7084,7 @@ Graptopetalum
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -7100,7 +7100,7 @@ Gras spp.
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -7133,7 +7133,7 @@ Carex brunnea ' Bunta '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -7257,7 +7257,7 @@ Ensete ventricosum
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -7267,13 +7267,13 @@ Toxizität nicht giftig
 Klima tropischer Regenwald
 
 
-Falsche Castor-Ölanlage
+Falsche Castor-ÖlPflanze
 Zimmeraralie Japonica
 
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -7288,7 +7288,7 @@ Zimmeraralie Japonica ' Bunta '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -7303,7 +7303,7 @@ Selaginella lepidophylla
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 2 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -7351,7 +7351,7 @@ Peperomia incana
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -7366,7 +7366,7 @@ Farn spp.
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -7412,7 +7412,7 @@ Ficus Lyrata
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -7428,7 +7428,7 @@ Ficus
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -7469,7 +7469,7 @@ Toxizität nicht giftig
 Klima tropischer Regenwald
 
 
-Feuerwerks Anlage
+Feuerwerks Pflanze
 Köcher ignea ' Bunta '
 
 
@@ -7516,13 +7516,13 @@ Säure Präferenz liebt neutrale pH-Bedingungen
 Toxizität giftig
 Klima tropischer Regenwald
 
-Fünf-Loch-Anlage
+Fünf-Loch-Pflanze
 Monstera adansonii
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage im Sommer
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -7538,7 +7538,7 @@ Delonix Regia
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -7649,7 +7649,7 @@ Salix Integra
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -7680,7 +7680,7 @@ Prunus serrulata ' Kanzan '
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -7697,7 +7697,7 @@ Tradescantia cerinthoides
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -7761,7 +7761,7 @@ Peperomia fraseri
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -7899,7 +7899,7 @@ Spargel densiflorus ' Meyersii '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -7915,7 +7915,7 @@ Pfauenrad raddianum ' Fragrantissimum '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -7963,7 +7963,7 @@ Erica x hiemalis
 
 
 Bewässerungs Richtlinien der Boden sollte countinously sehr feucht gehalten werden
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen Nebel alle 6 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt kalte konstante Temperaturen durch das ganze Jahr (durchschnittlich unter 16 Grad C).
@@ -7973,7 +7973,7 @@ Toxizität nicht giftig
 Klima Mittelmeer
 
 
-Freundschafts Anlage
+Freundschafts Pflanze
 PileA involucrata ' Moon Valley '
 
 
@@ -8011,7 +8011,7 @@ Calathea rufibarba
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8215,7 +8215,7 @@ Peperomia caperata
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8230,7 +8230,7 @@ Peperomia caperata ' Bunta '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8245,7 +8245,7 @@ Efeutute
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8308,7 +8308,7 @@ Eukalyptus
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -8370,7 +8370,7 @@ Begonie bowerae
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8464,7 +8464,7 @@ Efeutute Aureum
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8510,7 +8510,7 @@ Polyscias Scutellaria
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8541,7 +8541,7 @@ Dracaena Draco
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8556,7 +8556,7 @@ Dracaena
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8571,7 +8571,7 @@ Dracaena duftende "Janet Craig"
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8586,7 +8586,7 @@ Dudleya brittonii
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8602,7 +8602,7 @@ Dieffenbachia
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8617,7 +8617,7 @@ Dieffenbachia bowmannii
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8633,7 +8633,7 @@ Gasteria Bicolor var. liliputana
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -8643,13 +8643,13 @@ Toxizität nicht giftig
 Klima Wüste
 
 
-Zwerg Spiegel Anlage
+Zwerg Spiegel Pflanze
 Coprosma x kirkii
 
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -8665,7 +8665,7 @@ Cyperus haspan
 
 
 Bewässerungs Richtlinien halten den bodenständig nass.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -8680,7 +8680,7 @@ Prunus tenella
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -8696,7 +8696,7 @@ Blechnum gibbum
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8712,7 +8712,7 @@ Cyperus albostriatus
 
 
 Bewässerungs Richtlinien der Boden sollte countinously sehr feucht gehalten werden
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -8728,7 +8728,7 @@ ACORUS gramineus
 
 
 Bewässerungs Richtlinien der Boden sollte countinously sehr feucht gehalten werden
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8774,7 +8774,7 @@ Hedera canariensis
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -8790,7 +8790,7 @@ Hedera canariensis ' Bunta '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -8821,7 +8821,7 @@ Senecio Artikulation
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -8867,7 +8867,7 @@ Delairea odorata
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -8945,7 +8945,7 @@ Carum Carvi
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -8977,7 +8977,7 @@ Carex
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -9023,7 +9023,7 @@ Daucus carota SSP. sativus
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -9033,13 +9033,13 @@ Toxizität nicht giftig
 Klima Feuchtgemäßigt
 
 
-Gusseiserne Anlage
+Gusseiserne Pflanze
 Aspidistra Elatior
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9054,7 +9054,7 @@ Aspidistra Elatior ' Bunta '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9069,7 +9069,7 @@ Cyperus involucratus ' Zumula '
 
 
 Bewässerungs Richtlinien halten den bodenständig nass.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -9085,7 +9085,7 @@ Haworthia cymbiformis
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -9202,7 +9202,7 @@ Säure Präferenz liebt neutrale pH-Bedingungen
 Toxizität giftig
 Klima Steppe
 
-Anlage
+Pflanze
 Echeveria leucotricha
 
 
@@ -9217,7 +9217,7 @@ Säure Präferenz ist nicht sehr pH-empfindlich
 Toxizität nicht giftig
 Klima Savanne
 
-Anlage
+Pflanze
 Acalypha hispida
 
 
@@ -9239,7 +9239,7 @@ Anthriscus Kerbel
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -9254,7 +9254,7 @@ Graptopetalum bellum
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -9365,7 +9365,7 @@ Ficus-mikrocarpa
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9381,7 +9381,7 @@ Ficus cyathistipula
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9412,7 +9412,7 @@ Aglaonema
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9427,7 +9427,7 @@ Aglaonema commutatum
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9443,7 +9443,7 @@ Aglaonema crispum ' Silver Queen '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9460,7 +9460,7 @@ Aglaonema pictum
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9501,7 +9501,7 @@ Säure Präferenz liebt sauren Bedingungen
 Toxizität nicht giftig
 Klima feucht subtropisch
 
-Chinesische Geldanlage
+Chinesische GeldPflanze
 Flora peperomioides
 
 
@@ -9571,7 +9571,7 @@ Chlorophytum
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9649,7 +9649,7 @@ Cissus
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9665,7 +9665,7 @@ Zitrusfrüchte
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
+Dünger Vorschläge verwenden Sie Zitrusfrüchte-Dünger (z.b. N7-P3-K6).
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
 pH-Bereich 6-8
@@ -9726,7 +9726,7 @@ Darlingtonia californica
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen Nebel alle 2 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -9804,7 +9804,7 @@ Codiaeum
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9819,7 +9819,7 @@ Coffea
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -9828,7 +9828,7 @@ Säure Präferenz liebt sauren Bedingungen
 Toxizität nicht giftig
 Klima tropischer Regenwald
 
-Cola-Anlage
+Cola-Pflanze
 Artemisia abrotanum var. maritima
 
 
@@ -9897,7 +9897,7 @@ Pinguicula vulgaris
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -9912,7 +9912,7 @@ Nadel-und Cycad spp.
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -10005,7 +10005,7 @@ Cordyline
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10020,7 +10020,7 @@ Coriandrum sativum
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -10036,7 +10036,7 @@ Dracaena Duft
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10052,7 +10052,7 @@ Dracaena duftende ' Massangeana '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10068,7 +10068,7 @@ Dracaena duftende Zitronen Kalk
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10084,7 +10084,7 @@ Dracaena duftende ' Lindenii '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10132,7 +10132,7 @@ Gasteria
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -10194,7 +10194,7 @@ Ficus pumila
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10210,7 +10210,7 @@ Ficus pumila ' bunte '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10305,7 +10305,7 @@ Codiaeum variegatum
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10352,7 +10352,7 @@ Cyrtomium
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -10362,13 +10362,13 @@ Toxizität nicht giftig
 Klima feucht subtropisch
 
 
-Baby-Kautschuk-Anlage
+Baby-Kautschuk-Pflanze
 Peperomia obtusifolia
 
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10398,7 +10398,7 @@ Polyscias balfouriana
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10414,7 +10414,7 @@ Musa acuminata
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10461,7 +10461,7 @@ Callisia Duft
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -10471,7 +10471,7 @@ Toxizität reizend
 Klima feucht subtropisch
 
 
-Perlen Anlage
+Perlen Pflanze
 Nertera granadensis
 
 
@@ -10523,7 +10523,7 @@ Allium ursinum
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -10538,7 +10538,7 @@ Beaucarnea
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -10569,7 +10569,7 @@ Aloysia
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen keine Informationen verfügbar
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -10585,7 +10585,7 @@ Iresine herbstii ' Aureoreticulata '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage im Winter
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10601,7 +10601,7 @@ Acalypha wilkesiana
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -10632,7 +10632,7 @@ Begonie Semperflorens-cultorum
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10677,7 +10677,7 @@ Ficus Benjamina
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10740,7 +10740,7 @@ Liriope Muscari
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -10820,7 +10820,7 @@ Asplenium nidus
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10836,7 +10836,7 @@ Asplenium Volaticotherium
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -10852,7 +10852,7 @@ Phyllostachys bissetii
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -10883,7 +10883,7 @@ Aronia Aronia
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -10975,7 +10975,7 @@ Iresine
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 6 Tage im Winter
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -11086,7 +11086,7 @@ Philodendron erubescens
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -11118,7 +11118,7 @@ Callisia repens
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -11134,7 +11134,7 @@ Farne
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -11181,7 +11181,7 @@ Buxus sempervirens
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden feucht gehalten werden, während er im Winter einfach nicht vollständig austrocknen sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -11213,7 +11213,7 @@ Leptinella squalida
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen keine Informationen verfügbar
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -11228,7 +11228,7 @@ Brotnussbaum
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -11243,7 +11243,7 @@ Spargel asparagoides
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -11275,7 +11275,7 @@ Pfauenrad tenerum ' Scutum roseum '
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -11445,7 +11445,7 @@ Adromischus cooperi
 
 
 Bewässerungs Richtlinien halten den bodenständig leicht feucht, aber lassen Sie ihn nie vollständig austrocknen.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -11491,7 +11491,7 @@ Alocasia AMAZONICA
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -11679,7 +11679,7 @@ Coffea arabica var. Arabica
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 4 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -11694,7 +11694,7 @@ Schefflera Elegantissima
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 5 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -11710,7 +11710,7 @@ Alocasia
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt heißen Sommer (durchschnittlich über 22 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -11786,7 +11786,7 @@ Polyscias Scutellaria ' Pennockii '
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -11801,7 +11801,7 @@ Araucaria
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und sehr kalten Winter (durchschnittlich unter 10 Grad c) Klima.
@@ -11817,7 +11817,7 @@ Syngonium Podophyllum
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -11864,7 +11864,7 @@ Spargel
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen helles Licht, aber keine direkte Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
@@ -11879,7 +11879,7 @@ Aucuba
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel täglich bei Raumtemperaturen über 22 Grad C, sonst Nebel alle 4 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -11910,7 +11910,7 @@ Tagetes aufricha
 
 
 Bewässerungs Richtlinien halten den bodenständig nass.
-Dünger-Vorschläge brauchen nicht Dünger.
+Dünger Vorschläge brauchen nicht Dünger.
 Nebel Anforderungen müssen nicht beschlagen
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -11957,7 +11957,7 @@ Nadel-und Cycad spp.
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 7 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt lauwarme konstante Temperaturen durch das ganze Jahr (Durchschnitt unter 20 Grad C).
@@ -11972,7 +11972,7 @@ Farn spp.
 
 
 Bewässerungs Richtlinien im Sommer sollte der Boden sehr feucht gehalten werden, während er im Winter feucht gehalten werden sollte.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen halbschattige Lichtverhältnisse
 Temperatur Präferenz bevorzugt warme konstante Temperaturen durch das ganze Jahr (durchschnittlich um 22 Grad C).
@@ -12002,7 +12002,7 @@ Gras spp.
 
 
 Bewässerungs Richtlinien der Boden sollte countinously feucht gehalten werden.
-Düngemittel verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
+Dünger Vorschläge verwenden grünen Pflanzendünger (z.b. N14-P6-K8).
 Nebel Anforderungen Nebel alle 3 Tage
 Licht Präferenzen bevorzugen volle Sonne
 Temperatur Präferenz bevorzugt warmen Sommer (durchschnittlich um 20 Grad c) und kalten Winter (durchschnittlich unter 15 Grad c) Klima.
