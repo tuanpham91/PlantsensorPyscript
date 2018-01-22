@@ -28,8 +28,10 @@ public class JsonToDatabase {
             Object obj = parser.parse(new FileReader("output_json.json"));
             JsonArray array = (JsonArray) obj;
             for (int i = 0; i < array.size(); i++) {
-                addOrFullfillObjectToDatabase(array.get(i).getAsJsonObject());
-                //addJsonObjectToDatabase(array.get(i).getAsJsonObject());
+                //addOrFullfillObjectToDatabase(array.get(i).getAsJsonObject());
+                addJsonObjectToDatabase(array.get(i).getAsJsonObject());
+                //addJsonObjectToDatabaseGerman(array.get(i).getAsJsonObject());
+                //addOrFullfillObjectToDatabaseGerman(array.get(i).getAsJsonObject());
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
@@ -40,7 +42,7 @@ public class JsonToDatabase {
             return obj.get(atr).getAsString();
         } catch (NullPointerException e) {
             //System.out.print(atr + " not found at " + obj.get("name")+"\n");
-            System.out.print(obj.toString()+"\n");
+           // System.out.print(obj.toString()+"\n");
             return "";
         }
     }
@@ -200,6 +202,102 @@ public class JsonToDatabase {
             }
         }
     }
+
+    public static void addOrFullfillObjectToDatabaseGerman(JsonObject object) {
+        String existenzQuery = "SELECT * FROM planttypegerman WHERE familyName LIKE ?;";
+        String addQuery =  "INSERT INTO planttypegerman ( name,familyName,category, availableColors, bloomTime,spaceRange,heightRange,basiccare, waterGuide,fertilizerGuide,lightGuide,tempGuide,soil) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?);";
+        boolean exist = false;
+        int id = 0 ;
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+            conn = DriverManager.getConnection(url, user, password);
+            PreparedStatement statement = conn.prepareStatement(existenzQuery);
+            statement.setString(1,object.get("family").getAsString());
+            ResultSet set = statement.executeQuery();
+            if (set.next()) {
+                //System.out.print("found duplicate " +  object.get("name").getAsString());
+                conn.close();
+                exist = true;
+                id = set.getInt("id");
+
+            }
+            conn.close();
+        } catch (Exception e) {
+
+        }
+
+        if (!exist) {
+            //System.out.print("w");
+            try {
+                Class.forName("com.mysql.jdbc.Driver");
+                conn = DriverManager.getConnection(url, user, password);
+                conn.setAutoCommit(false);
+                PreparedStatement statement = conn.prepareStatement(addQuery);
+
+                statement.setString(1, getJsonObject(object, "name"));
+                statement.setString(2, getJsonObject(object, "family"));
+
+
+                statement.setString(3, getJsonObject(object, "category"));
+                statement.setString(4, getJsonObject(object, "availableColors"));
+
+                statement.setString(5, getJsonObject(object, "bloomTime"));
+
+                statement.setString(6, getJsonObject(object, "spaceRange"));
+
+                statement.setString(7, getJsonObject(object, "heightRange"));
+
+                statement.setString(8, getJsonObject(object, "basicCare"));
+
+                statement.setString(9, getJsonObject(object, "watering"));
+
+                statement.setString(10, getJsonObject(object, "feed"));
+
+
+                statement.setString(11, getJsonObject(object, "plantLight"));
+
+                statement.setString(12, getJsonObject(object, "lowTemp"));
+
+                statement.setString(13, getJsonObject(object, "soil"));
+                statement.executeUpdate();
+                conn.commit();
+                conn.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        } else {
+            String fillingQuery = "UPDATE planttypegerman SET category = ?, availableColors = ?" +
+                    ", bloomTime = ?, heightRange = ?, spaceRange = ?, basiccare = ?, soil = ? WHERE id = ?";
+            try {
+                Class.forName("com.mysql.jdbc.Driver");
+                conn = DriverManager.getConnection(url, user, password);
+                conn.setAutoCommit(false);
+                PreparedStatement statement = conn.prepareStatement(fillingQuery);
+
+                statement.setString(1, getJsonObject(object, "category"));
+
+                statement.setString(2, getJsonObject(object, "availableColors"));
+
+                statement.setString(3, getJsonObject(object, "bloomTime"));
+
+                statement.setString(4, getJsonObject(object, "heightRange"));
+
+                statement.setString(5, getJsonObject(object, "spaceRange"));
+
+                statement.setString(6, getJsonObject(object, "basicCare"));
+
+                statement.setString(7, getJsonObject(object, "soil"));
+
+                statement.setInt(8, id);
+
+                statement.executeUpdate();
+                conn.commit();
+                conn.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
     public static void addJsonObjectToDatabase(JsonObject object) {
 
         String existenzQuery = "SELECT * FROM planttype WHERE name= ?;";
@@ -223,6 +321,67 @@ public class JsonToDatabase {
         }
         if (true) {
             String query = "INSERT INTO planttype ( name,familyName, waterGuide,fertilizerGuide,mistGuide,lightGuide,tempGuide,phGuide,acidGuide,toxicGuide,climateGuide) VALUES (?,?,?,?,?,?,?,?,?,?,?);";
+            System.out.print("w");
+            try {
+                Class.forName("com.mysql.jdbc.Driver");
+                conn = DriverManager.getConnection(url, user, password);
+                conn.setAutoCommit(false);
+                PreparedStatement statement = conn.prepareStatement(query);
+
+                statement.setString(1, getJsonObject(object, "name"));
+
+                statement.setString(2, getJsonObject(object, "family"));
+
+                statement.setString(3, getJsonObject(object, "water"));
+
+                statement.setString(4, getJsonObject(object, "fertilizer"));
+
+                statement.setString(5, getJsonObject(object, "mist"));
+
+                statement.setString(6, getJsonObject(object, "light"));
+
+                statement.setString(7, getJsonObject(object, "temperature"));
+
+                statement.setString(8, getJsonObject(object, "ph"));
+
+                statement.setString(9, getJsonObject(object, "acid"));
+
+
+                statement.setString(10, getJsonObject(object, "toxic"));
+
+                statement.setString(11, getJsonObject(object, "climate"));
+                statement.executeUpdate();
+                conn.commit();
+                conn.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    public static void addJsonObjectToDatabaseGerman(JsonObject object) {
+
+        String existenzQuery = "SELECT * FROM planttypegerman WHERE name= ?;";
+        boolean exist = false;
+
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+            conn = DriverManager.getConnection(url, user, password);
+            PreparedStatement statement = conn.prepareStatement(existenzQuery);
+            statement.setString(1,object.get("name").getAsString());
+            ResultSet set = statement.executeQuery();
+            if (set.next()) {
+                //System.out.print("found duplicate " +  object.get("name").getAsString());
+                conn.close();
+                return;
+
+            }
+            conn.close();
+        } catch (Exception e) {
+
+        }
+        if (true) {
+            String query = "INSERT INTO planttypegerman ( name,familyName, waterGuide,fertilizerGuide,mistGuide,lightGuide,tempGuide,phGuide,acidGuide,toxicGuide,climateGuide) VALUES (?,?,?,?,?,?,?,?,?,?,?);";
             System.out.print("w");
             try {
                 Class.forName("com.mysql.jdbc.Driver");
