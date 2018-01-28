@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.7.21, for Linux (x86_64)
 --
--- Host: localhost    Database: plantsensor
+-- Host: 127.0.0.1    Database: plantsensor
 -- ------------------------------------------------------
 -- Server version	5.7.21-0ubuntu0.17.10.1
 
@@ -108,4 +108,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-01-28 18:06:06
+-- Dump completed on 2018-01-28 18:09:57
